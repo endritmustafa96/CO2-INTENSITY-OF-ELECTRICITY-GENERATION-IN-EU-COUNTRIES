@@ -1,6 +1,6 @@
 # ANALYSIS OF CO2 INTENSITY OF ELECTRICITY GENERATION IN EU COUNTRIES
 
-<img src="https://iea.imgix.net/69f767b9-6676-4345-a1ea-9dc410ae5990/GettyImages-1303511343.png?auto=compress%2Cformat&fit=min&q=80&rect=0%2C0%2C3991%2C2245&w=1220&fit=crop&fm=jpg&q=70&auto=format&h=686" width="700" height="600">
+<img src="https://iea.imgix.net/69f767b9-6676-4345-a1ea-9dc410ae5990/GettyImages-1303511343.png?auto=compress%2Cformat&fit=min&q=80&rect=0%2C0%2C3991%2C2245&w=1220&fit=crop&fm=jpg&q=70&auto=format&h=686" width="700" height="500">
 
 ---
 
